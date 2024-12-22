@@ -1,5 +1,6 @@
 package solution;
 
+
 public class N1_MiddleElement {
     public static Integer middleElement(String[] stringNumbers) {
         int[] ints = new int[stringNumbers.length];
